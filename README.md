@@ -10,5 +10,5 @@
 
 <h1> Hello World! </h1>
 <p> Hello World! Hello World <p>
-<img> src="sleeping dogs.jpg">
+<img src="sleeping dogs.jpg">
 <a href="https://www.nationalgeographic.com/animals/mammals/facts/domestic-dog/">W3C</a>
