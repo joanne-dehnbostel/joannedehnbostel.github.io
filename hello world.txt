@@ -1,4 +1,7 @@
-<h1> Hello World! </h1>
-<h2> Hello World! Hello World </h2>
+<h1> Dogs! </h1>
+<h2> Things I like about dogs... </h2>
+*they are good listeners
+*they never tell secrets
+*they keep your feet warm
 <img> src="sleeping dogs">
 <a href="https://www.nationalgeographic.com/animals/mammals/facts/domestic-dog">W3C</a>
