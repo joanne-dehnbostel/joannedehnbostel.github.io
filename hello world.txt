@@ -1,7 +1,9 @@
 <h1> Dogs! </h1>
 <h2> Things I like about dogs... </h2>
+<ol>
 *they are good listeners
 *they never tell secrets
 *they keep your feet warm
+</ol>
 <img> src="sleeping dogs">
 <a href="https://www.nationalgeographic.com/animals/mammals/facts/domestic-dog">W3C</a>
